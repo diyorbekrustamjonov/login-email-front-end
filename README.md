@@ -7,7 +7,7 @@
 </h3>
 <br>
 <h3 align="center">
-  Confirm page
+  Registration page
   <br>
   <br>
   <img src="https://user-images.githubusercontent.com/74828016/160912495-e3094f87-8907-44ab-ab51-18d8bd51ece3.png">
